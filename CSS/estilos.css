@@ -1,6 +1,22 @@
 body
 {
-    color: darkorchid;
+    color: #333;
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: lem;
+    text-align: center;
+    border: 7px solid #DDD;
+    margin: 20 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
